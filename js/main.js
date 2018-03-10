@@ -1,7 +1,7 @@
 $(function(){
 	 $('.j-secondSlider').slick({
   		infinite: true,
-  		speed: 500,
+  		speed: 1000,
   		fade: true,
   		cssEase: 'linear'
 	 });
